@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Python_Cookbook_Recipes_3rd.iml" filepath="$PROJECT_DIR$/.idea/Python_Cookbook_Recipes_3rd.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../mastering_spaCy/.idea/mastering_spaCy.iml" filepath="$PROJECT_DIR$/../mastering_spaCy/.idea/mastering_spaCy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../scrapy_portalHolanda/.idea/scrapy_portalHolanda.iml" filepath="$PROJECT_DIR$/../scrapy_portalHolanda/.idea/scrapy_portalHolanda.iml" />
     </modules>
   </component>
 </project>
